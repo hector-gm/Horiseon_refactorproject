@@ -6,6 +6,8 @@ Our client's existing website code originally lacked alt-text and semantic eleme
 ## Installation 
 Clone repository to access .html, .css and client-approved .jpg files.
 
+Repository is held at https://hector-gm.github.io/Horiseon_refactorproject/
+
 ## Usage
 Client's website is currently configured for a single page with links to scroll down to relevant content sections. Broken links were repaired in the header component of the body.
 
