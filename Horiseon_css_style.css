@@ -23,8 +23,9 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+/* We want our navigation links to be located on the right side of the screen */
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,12 +34,12 @@ header div {
 }
 /* We want to display our list items without bullets*/
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
 /* We want to display our list items in a single row for navigation purposes*/
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -62,9 +63,10 @@ p {
     background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    alt: "Horiseon team hard at work";
 }
 
-/*Our content section parameters are defined to make sure they are displayed to only occupy 3/4 of the page width and have a margin from the left*/
+/* Our content section parameters are defined to make sure they are displayed to only occupy 3/4 of the page width and have a margin from the left*/
 
 .content {
     width: 75%;
@@ -72,7 +74,7 @@ p {
     margin-left: 20px;
 }
 
-/*Floats are established to position images within the content*/
+/* Floats are established to position images within the content*/
 
 .float-left {
     float: left;
@@ -84,7 +86,7 @@ p {
     margin-left: 25px;
 }
 
-/*Company selling points are listed with */
+/* Company selling points are listed with */
 
 .benefits {
     margin-right: 20px;
