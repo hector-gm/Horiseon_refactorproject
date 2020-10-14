@@ -10,6 +10,7 @@ Repository is held at https://github.com/hector-gm/Horiseon_refactorproject
 
 ## Sample
 Live sample of the project is hosted at https://hector-gm.github.io/Horiseon_refactorproject/
+![Horiseon Homepage](/images/Horiseon_Homepage.png)
 
 
 ## Usage
